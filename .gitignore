@@ -1,0 +1,7 @@
+# Allow-list: only the page and its media are public.
+*
+!.gitignore
+!index.html
+!media/
+!media/hammock-flip-v1.mp4
+!media/hammock-flip-v1-poster.jpg
